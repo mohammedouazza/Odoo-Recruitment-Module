@@ -1,0 +1,6 @@
+@echo off
+title Random...
+echo the program is running...
+cd C:\Program Files (x86)\Odoo 9.0-20170809\server
+python survey_random.py
+pause
